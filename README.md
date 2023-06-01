@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Olá, bem vindo ao meu GitHub
 
-<!--
-**azzidev/azzidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aqui estão algumas das minhas skills 💪
 
-Here are some ideas to get you started:
+## 💾 Programador
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuei por 2 anos como Desenvolvedor Web na empresa Digicard, aonde desenvolvi sistemas e aplicações, como DigiApp, DigiOn, MaxPlay e outros. Um grande marco para empresas e uma grande conquista para mim. Atualmente trabalhando em projetos pessoais, como OnPet, CarChase e MyNotebook. 
+
+Você pode se atualizar no decorrer do desenvolvimento das aplicações, no site oficial da BR2World Agency. 
+
+## 🤖 Amador em robótica e eletrônica
+
+Desenvolvendo projetos, como um rastreador para pets. Ainda uma ideia superficial, mas uma das primeiras empresas nacionais a prover este tipo de tecnologia. Não há data para lançamento, mas você pode acompanhar o desenrolar no repo `onpet`.
+
+## 📈 Negociador pela Allianz
+
+Trabalhando meio período na companhia Allianz Brasil (Allianz Partners), como Analista de Negociação. 

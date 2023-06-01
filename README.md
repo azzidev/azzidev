@@ -14,6 +14,6 @@ Você pode se atualizar no decorrer do desenvolvimento das aplicações, no site
 
 Desenvolvendo projetos, como um rastreador para pets. Ainda uma ideia superficial, mas uma das primeiras empresas nacionais a prover este tipo de tecnologia. Não há data para lançamento, mas você pode acompanhar o desenrolar no repo `onpet`.
 
-## 📈 Negociador pela Allianz
+## 📈 Negociador pela Allianz Brasil
 
-Trabalhando meio período na companhia Allianz Brasil (Allianz Partners), como Analista de Negociação. 
+Trabalhando meio período na companhia Allianz Brasil (Allianz Partners), como Analista de Negociação. Minha função é negociar e acionar prestadores de serviços para realizar serviços de pericia, recuperação de roubo, reparo ou remoção em sinistros, etc.

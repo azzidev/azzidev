@@ -12,7 +12,7 @@ Você pode se atualizar no decorrer do desenvolvimento das aplicações, no site
 
 ## 🤖 Amador em robótica e eletrônica
 
-Desenvolvendo projetos, como um rastreador para pets. Ainda uma ideia superficial, mas uma das primeiras empresas nacionais a prover este tipo de tecnologia. Não há data para lançamento, mas você pode acompanhar o desenrolar no repo `onpet`.
+Criando algo novo, como um rastreador para pets. Ainda uma ideia superficial, mas uma das primeiras empresas nacionais a prover este tipo de tecnologia. Não há data para lançamento, mas você pode acompanhar o desenrolar no repo `onpet`.
 
 ## 📈 Negociador pela Allianz Brasil
 

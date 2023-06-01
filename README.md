@@ -4,7 +4,9 @@ Aqui estão algumas das minhas skills 💪
 
 ## 💾 Programador
 
-Atuei por 2 anos como Desenvolvedor Web na empresa Digicard, aonde desenvolvi sistemas e aplicações, como DigiApp, DigiOn, MaxPlay e outros. Um grande marco para empresas e uma grande conquista para mim. Atualmente trabalhando em projetos pessoais, como OnPet, CarChase e MyNotebook. 
+Atuei por 2 anos como Desenvolvedor Web na empresa Digicard, aonde desenvolvi sistemas e aplicações, como DigiApp, DigiOn, MaxPlay e outros. Um grande marco para empresas e uma grande conquista para mim. 
+
+Atualmente trabalhando em projetos pessoais, como OnPet, CarChase e MyNotebook. 
 
 Você pode se atualizar no decorrer do desenvolvimento das aplicações, no site oficial da BR2World Agency. 
 

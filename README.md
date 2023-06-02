@@ -8,8 +8,6 @@ Atuei por 2 anos como Desenvolvedor Web na empresa Digicard, aonde desenvolvi si
 
 Atualmente trabalhando em projetos pessoais, como OnPet, CarChase e MyNotebook. 
 
-Você pode se atualizar no decorrer do desenvolvimento das aplicações, no site oficial da BR2World Agency. 
-
 ## 🤖 Amador em robótica e eletrônica
 
 Criando algo novo, como um rastreador para pets. Ainda uma ideia superficial, mas uma das primeiras empresas nacionais a prover este tipo de tecnologia. Não há data para lançamento, mas você pode acompanhar o desenrolar no repo `onpet`.

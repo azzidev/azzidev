@@ -2,9 +2,9 @@
 
 Aqui estão algumas das minhas skills 💪
 
-## 💾 Programador
+## 👨‍💻 Programador
 
-Atuei por 2 anos como Desenvolvedor Web na empresa Digicard, aonde desenvolvi sistemas e aplicações, como DigiApp, DigiOn, MaxPlay e outros. Um grande marco para empresas e uma grande conquista para mim. 
+Atuei por 2 anos como Desenvolvedor Web na empresa Digicard, aonde desenvolvi sistemas e aplicações, como DigiApp, DigiOn, MaxPlay e outros. Um grande marco para as empresas e uma grande conquista para mim. 
 
 Atualmente trabalhando em projetos pessoais, como OnPet, CarChase e MyNotebook. 
 

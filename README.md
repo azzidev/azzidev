@@ -12,6 +12,6 @@ Atualmente trabalhando em projetos pessoais, como OnPet, CarChase e MyNotebook.
 
 Criando algo novo, como um rastreador para pets. Ainda uma ideia superficial, mas uma das primeiras empresas nacionais a prover este tipo de tecnologia. Não há data para lançamento, mas você pode acompanhar o desenrolar no repo `onpet`.
 
-## 📈 Negociador pela Allianz Brasil
+## 📈 Analista de Monitoramento pela Allianz Brasil
 
-Trabalhando meio período na companhia Allianz Brasil (Allianz Partners), como Analista de Negociação. Minha função é negociar e acionar prestadores de serviços para realizar serviços de pericia, recuperação de roubo, reparo ou remoção em sinistros, etc.
+Trabalhando meio período na companhia Allianz Brasil (Allianz Partners), como Analista de Monitoramento. Minha função é monitorar prestadores de serviços, agindo fortemente na Prevenção de Fraudes, Prevenção de Risco e Prevenção de Manifestações.
